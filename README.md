@@ -1,2 +1,2 @@
 # Examen-Fp
-my real time exam solving at Fundamentals of Programming graded with maximum.
+my real time exam solution at Fundamentals of Programming graded with maximum.
